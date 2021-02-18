@@ -36,10 +36,10 @@
 1. Now The configuration of the Bot is done! 
 2. Now we need to install Node 
 3. To do this go to [this link](https://nodejs.org/en/) and download the recommend user's file, and open the .exe
-4. Now Node has installed the bot is ready to go
 ##### Starting the bot
 1. In the Windows Search Bar search "CMD" and an open command prompt window
 2. Now Copy the file directory path the bot files are in (the top of file explorer)
 3. type cd "Filepath", eg `cd C:\Users\a\bot\" then press enter
-4. Let's start the bot by typing `node bot.js` 
-5. The bot should be started and now you should be able to link the chats
+4. Download the bots needed files by typing `npm install`
+5. Let's start the bot by typing `node bot.js` 
+6. The bot should be started and now you should be able to link the chats
