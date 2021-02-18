@@ -1,0 +1,17 @@
+{
+  "name": "Twitch-Chat-Discord-Channel-Link",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Abinash R",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "tmi.js": "^1.7.1"
+  },
+  "devDependencies": {},
+  "description": "This Bot, while being cool, may run you the risk of users executing their GDPR rights suing you for fines, since they never permitted you to use their messages. I Am Not liable If you do choose to deploy it. It Will is on YOU  "
+}
