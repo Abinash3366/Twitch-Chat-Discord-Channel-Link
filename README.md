@@ -25,7 +25,7 @@
 3. Then click on "add a bot", Then "Yes do it!"
 4. Add a photo & Name the bot, Make your bot look cool :P
 5. Now Copy the token either by revelling the token and copying it or by pressing copy, then paste it into "token" eg. `  "token": "BAHwjsdfvbhjasbfkljASBJKLDFBjklabASNfklanl",`
-6. Last part for the bot, we need to add your bot to the server!, Do this by going to "OAuth2" on the left bar, then copying the Client ID, and pasting it into "https://discord.com/api/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=67584&scope=bot" the YOUR CLIENT ID section of the URL then going to that webpage and adding the bot into your server
+6. Last part for the bot, we need to add your bot to the server!, Do this by going to "OAuth2" on the left bar, then copying the Client ID, and pasting it into `"https://discord.com/api/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=67584&scope=bot"` the YOUR CLIENT ID section of the URL then going to that webpage and adding the bot into your server
 7. Remember to make sure the bot has access to the channel it needs to be in
 ##### 4th Discord Channel ID
 1. You now need the channel id of the channel you want the bot to talk into, 
