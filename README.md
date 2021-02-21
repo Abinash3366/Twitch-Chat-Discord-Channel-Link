@@ -1,8 +1,8 @@
 # Twitch-Chat-Discord-Channel-Link
-### Disclaimer
+### Disclaimer:
 **This Bot, while being cool, may run you the risk of users executing their GDPR rights suing you for fines, since they never permitted you to use their messages.**
 **I Am Not liable If you do choose to deploy it.If someone does lawsuit you it is on YOU**
-#### Note
+#### Note:
 I will not be updating this repo much, there will be bugs
 
 ---
