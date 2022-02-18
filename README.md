@@ -1,7 +1,7 @@
 # Twitch-Chat-Discord-Channel-Link
 ### Disclaimer:
 **This Bot, while being cool, may run you the risk of users executing their GDPR rights suing you for fines, since they never permitted you to use their messages.**
-**I Am Not liable If you do choose to deploy it. If someone does lawsuit you it is on YOU**
+**I Am Not liable If you do choose to deploy it. If someone does lawsuit you it is on YOU, Also in the unlikely event this causes your computer/server/machine/fridge to blow up it's also on you. I maintain no liability for what ever happens. It is always recommended to look through any scripts / stuff you download.**
 #### Note:
 I will not be updating this repo much, there will be bugs
 
